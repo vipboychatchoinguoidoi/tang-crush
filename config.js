@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 😘😘',
     messDesc: 'Chắc chắn chưaaa ?',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://memehay.com/meme/do-mixi-cam-sung-noi-bat-ngo-khong-thang-lon' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.messenger.com/t/100015465726393' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
